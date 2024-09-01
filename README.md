@@ -4,7 +4,7 @@
 
 Through the E-Commerce back end component, users can create a database to store inventory data using Sequelize. Users can view, add, update, and delete entries that represent products, categories, and tags using their corresponding routes.
    
-Here is the link to a video walkthrough:
+Here is the link to a video walkthrough: https://www.loom.com/share/9ef819632da042e2a4f3c02d9703e2c8?sid=eb27517e-67ad-4b59-a6ab-270fcc1242fe
  
 ## Installation
 
